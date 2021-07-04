@@ -10,7 +10,7 @@ Input:
 
 <img src='input.PNG' title='input' width="100" height="180" alt='input' />
 
-output:
+Output:
 
 <img src='result.PNG' title='result' alt='result' />
 
